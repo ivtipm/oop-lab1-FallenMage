@@ -1,0 +1,7 @@
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\bin\Debug\ClassTime.exe.config
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\bin\Debug\ClassTime.exe
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\bin\Debug\ClassTime.pdb
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\obj\Debug\ClassTime.csprojAssemblyReference.cache
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\obj\Debug\ClassTime.csproj.CoreCompileInputs.cache
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\obj\Debug\ClassTime.exe
+E:\OOP\oop-lab1-FallenMage-master\Манханов\ClassTime\ClassTime\obj\Debug\ClassTime.pdb
